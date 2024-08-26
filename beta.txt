@@ -1,0 +1,3 @@
+Hello!!!
+Welcome to Git.
+This is second class notepad.
